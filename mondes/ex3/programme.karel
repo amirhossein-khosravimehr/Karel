@@ -1,5 +1,5 @@
 definir tourner_droite:
-    repeter 3 fois:
+    repeter 2 fois:
         tourner_gauche
 
 tant que devant_libre:
