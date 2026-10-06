@@ -8,7 +8,7 @@ definir monter_marche:
     repeter 3 fois:
         tourner_gauche
 
-repeter 3 fois:
+repeter 4 fois:
     monter_marche
 
 ramasser_balise
