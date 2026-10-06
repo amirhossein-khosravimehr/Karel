@@ -1,1 +1,15 @@
 # Exercice 5 : aller chercher le journal et rentrer, face à l’est
+definir demi_tour:
+    tourner_gauche
+    tourner_gauche
+
+tant que pas balise_ici:
+    avancer
+
+ramasser_balise
+demi_tour
+
+tant que chemin_libre:
+    avancer
+
+demi_tour
