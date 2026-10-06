@@ -2,5 +2,6 @@
 
 Comment est votre blanquette ?
 
-# Réponse étudiant :
+# Réponse étudiant : Elle est bonne
+
 
