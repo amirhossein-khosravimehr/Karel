@@ -1,1 +1,14 @@
 # Exercice 4 : monter l’escalier avec repeter
+# Karel monte l'escalier jusqu'a la balise
+
+definir monter_marche:
+    avancer
+    tourner_gauche
+    avancer
+    repeter 3 fois:
+        tourner_gauche
+
+repeter 4 fois:
+    monter_marche
+
+ramasser_balise
