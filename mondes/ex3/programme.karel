@@ -1,3 +1,5 @@
+# Karel contourne un mur et ramasse une balise
+
 definir tourner_droite:
     repeter 2 fois:
         tourner_gauche
